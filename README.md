@@ -1,6 +1,6 @@
 <h1> Hello there! Nice to see you. </h1>
 
-<p> I'm Kevin, Student of applied computer science at the <a href="https://www.ruhr-uni-bochum.de/de">Ruhr-University Bochum</a></p>
+<p> I'm Kevin, Student of applied computer science at the <a href="https://www.ruhr-uni-bochum.de">Ruhr-University Bochum</a></p>
 
 ------------
 <p align="center"> 
