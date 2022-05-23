@@ -13,4 +13,11 @@
   <a href="https://www.linkedin.com/in/kevin-eschbach-982724228/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <!-- TODO: add discord invite but first tidy discord server -->
+  <a href="" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/691958051665739816?color=%237289DA&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge"/>
+  </a>
+</p>
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=kevin-eschbach.kevin-eschbach"/>
 </p>
