@@ -1,8 +1,24 @@
-<h1> Hello there! Nice to see you. </h1>
+<h1 align="center"> Hello there! Nice to see you. </h1>
 
-<p> I'm Kevin, Student of applied computer science at the <a href="https://www.ruhr-uni-bochum.de">Ruhr-University Bochum</a></p>
+<p align="center">
+  I'm Kevin, a masters student of applied computer science at 
+  <a rel="noopener noreferrer" target="_blank" href="https://www.ruhr-uni-bochum.de">
+     Ruhr-University Bochum</a>.
+</p>
+
+<p align="center">
+  Currently employed at 
+  <a rel="noopener noreferrer" target="_blank" href="https://www.gbtec.com">
+    GBTEC Group</a>
+  as a working student in frontend developing using Angular.
+</p>
+
+<p align="center">
+  I'm interested in <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/data-visualization">data visualization</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/machine-learning">machine learning</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/robotics">robotics</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/computational-neuroscience">computational neuroscience</a>. I'm also a 3D-printing hobbyist. As you can see: the majority of my hobbys are technical. My non-technical hobbys are hiking and fishing. If you want to talk about any of these topics, just reach out to me on my <a href="#socials">socials</a>. If you want to get to know better what I'm up to, you can visit my <a rel="noopener noreferrer" target="_blank" href="https://kevin-eschbach.de">personal website</a>.
+</p>
 
 ------------
+<div id="socials">
 <p align="center"> 
   <a href="https://github.com/kevin-eschbach" rel="noopener noreferrer" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
@@ -21,3 +37,4 @@
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=kevin-eschbach.kevin-eschbach"/>
 </p>
+</div>
