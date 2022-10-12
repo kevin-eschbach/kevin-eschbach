@@ -8,9 +8,9 @@
 
 <p align="center">
   Currently employed at 
-  <a rel="noopener noreferrer" target="_blank" href="https://www.gbtec.com">
-    GBTEC Group</a>
-  as a working student in frontend developing using Angular.
+  <a rel="noopener noreferrer" target="_blank" href="https://www.lps.ruhr-uni-bochum.de/">
+    my university</a>
+  as a research assistant in the <a rel="noopener noreferrer"target="_blank" href="https://www.lps.ruhr-uni-bochum.de/forschung/projekte/roboschalt"> RoboSchalt</a> project.
 </p>
 
 <p align="center">
