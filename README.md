@@ -31,7 +31,4 @@
     <img alt="Discord" src="https://img.shields.io/discord/691958051665739816?color=%237289DA&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge"/>
   </a>
 </p>
-<p align="center">
-  <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=kevin-eschbach.kevin-eschbach"/>
-</p>
 </div>
