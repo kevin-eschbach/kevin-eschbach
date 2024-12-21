@@ -6,10 +6,6 @@
      Ruhr-University Bochum</a>.
 </p>
 
-<p align="center">
-  I'm interested in <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/data-visualization">data visualization</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/machine-learning">machine learning</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/robotics">robotics</a>, <a rel="noopener noreferrer" target="_blank" href="https://github.com/topics/computational-neuroscience">computational neuroscience</a>. I'm also a 3D-printing hobbyist. As you can see: the majority of my hobbies are technical. My non-technical hobbies are hiking and fishing. If you want to talk about any of these topics, just reach out to me on my socials you can find at the bottom of my profile. If you want to get some insights about what I'm up to, you can visit my <a rel="noopener noreferrer" target="_blank" href="https://kevin-eschbach.de">personal website</a>.
-</p>
-
 ------------
 <div id="socials">
 <p align="center"> 
